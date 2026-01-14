@@ -68,9 +68,3 @@ No installation required! This game is built using the HTML5 Canvas API and Web 
 * **Rendering:** HTML5 `<canvas>`.
 * **Audio:** Procedural synthesis using `AudioContext` (No external .mp3/.wav files needed).
 * **Physics:** Predictive collision detection with wall-sliding logic.
-
----
-
-## 🐛 Known Issues / Tips
-* **Audio:** If there is no sound, check your browser permissions or click the game window again.
-* **Performance:** If the game runs slow, ensure "Hardware Acceleration" is enabled in your browser settings.
